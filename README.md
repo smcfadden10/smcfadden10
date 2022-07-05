@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @smcfadden10
+- 👋 Hi, I’m @smcfadden10.
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning via the Odin Project
+- 🌱 I’m currently learning via the Odin Project.
 
 <!---
 smcfadden10/smcfadden10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
